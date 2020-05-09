@@ -1,0 +1,182 @@
+.container-div1{
+    background-color: Royalblue;
+}
+.btn1{
+    border: none;
+  font-size: 13px;
+}
+p{
+    color: white;
+}
+.fa,i{
+    padding: 20px;
+    font-size: 13px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    color: white;
+  }
+  .fa:hover {
+     background-color: steelblue;
+  }
+  .navbar navbar-expand-sm sticky-topp{
+    background-color:floralwhite;
+  }
+.dropdown:hover{
+  background-color: Royalblue;
+}
+.dropdown-toggle{
+  color: black;
+}
+.dropdown-item:hover{
+  background-color: royalblue;
+}
+.carousel-inner img {
+  width: 100%;
+  height: 100%;
+}
+.container-div2{
+  background-color: royalblue;
+  color: white;
+}
+.container-div3{
+  background-color: whitesmoke;
+}
+.h1{
+  color: green;
+  font-size: 40px;
+  font-family: 'Times New Roman', Times, serif;
+  padding: 10px;
+}
+.h2{
+  color: blue;
+  font-size: 40px;
+  font-family: 'Times New Roman', Times, serif;
+}
+p{
+  color: black;
+  font-family: 'Times New Roman', Times, serif;
+}
+.container-div4{
+  height: 300px;
+  width: 1350px;
+}
+.main {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.one, .two, .three{
+  border: groove;
+  width: 400px;
+  height: 180px;
+  background-color: white;
+}
+.h3{
+  color: royalblue;
+}
+.container-div7{
+  margin: 70px;
+}
+.h3{
+  color: royalblue;
+  font-family: 'Times New Roman', Times, serif;
+}
+.main1{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.one1{
+  border: groove;
+  margin: 40px;
+  width: 600px;
+  height: 70px;
+  background-color: whitesmoke;
+}
+.two2{
+  margin: 40px;
+  border: groove;
+  width: 600px;
+  height: 70px;
+  background-color: whitesmoke;
+}
+.one3{
+  margin: 40px;
+  border: groove;
+  width: 600px;
+  height: 70px;
+  background-color: whitesmoke;
+}
+.two4{
+  margin: 40px;
+  border: groove;
+  width: 600px;
+  height: 70px;
+  background-color: whitesmoke;
+}
+.h4{
+  font-size: 17px;
+  font-family: 'Times New Roman', Times, serif;
+  color: royalblue;
+  margin: 15px;
+}
+.h11{
+  color: green;
+  font-size: 35px;
+  font-family: 'Times New Roman', Times, serif;
+  padding: 10px;
+}
+.h22{
+  color: blue;
+  font-size: 35px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.container-9{
+  display: flex;
+}
+html, body {
+  width: 100%;
+  margin: 0;
+}
+
+.col-sm-12{
+  margin: 0 auto;
+  width: 100%;
+  height: 500px;
+  background-color: #282828;
+}
+.h5{
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+.container{
+  display: flex;
+}
+.h6{
+  color: #B8B8B8;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 16;
+  margin: 0;
+}
+.footer {
+ position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color:royalblue;
+  color: white;
+  text-align: center;
+  margin: 0px;
+  height: 50px;
+
+}
+
+.h7{
+  float: left;
+  color: white;
+  font-size: 15px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
